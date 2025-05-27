@@ -12,8 +12,8 @@ Agentic_AI_Explorer/
 ├── 📈 Agentic_Evaluation/     # 评估测试模块  
 ├── 🧠 Context_Management/     # 上下文管理模块
 ├── 🎯 Langchain_demo/         # LangChain演示
-├── ⚙️ Function_Calling/       # FunctionCalling演示
-└── 📖 README.md              # 项目文档
+├── ⚙️ Function_Calling_demo/  # FunctionCalling演示
+└── 📖 README.md               # 项目文档
 ```
 
 ## 🔧 核心模块
