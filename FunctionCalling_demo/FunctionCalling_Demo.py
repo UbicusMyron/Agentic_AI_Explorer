@@ -5,6 +5,9 @@ from tax_calculator import calculate_individual_income_tax_from_salary
 from openai import OpenAI
 
 # Qwen API Key & Endpoint
+# 在这里修改你的API key（重要的事情说三遍）
+# 在这里修改你的API key（重要的事情说三遍）
+# 在这里修改你的API key（重要的事情说三遍）
 client = OpenAI(
     api_key="sk-ac968b8245624f3eb154bda6b13c2601",
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
