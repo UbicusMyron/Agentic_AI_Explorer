@@ -15,6 +15,9 @@ from langchain_community.chat_models import ChatOpenAI
 from langchain.tools import Tool
 
 # 1. Set your Qwen API key directly (or use an environment variable)
+# 在这里修改你的API key（重要的事情说三遍）
+# 在这里修改你的API key（重要的事情说三遍）
+# 在这里修改你的API key（重要的事情说三遍）
 QWEN_API_KEY = "sk-ac968b8245624f3eb154bda6b13c2601"
 
 # 2. Specify Qwen's API base URL
