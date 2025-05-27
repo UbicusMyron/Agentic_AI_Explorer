@@ -1,5 +1,5 @@
 Before you start, you need to:
 
 - Prepare the API key of the LLM you want to test.
-- install langchain package.
-- install SDK of the LLM you want to test. E.g. for Qwen, it's `OpenAI`.
+- Install the langchain package.
+- Install SDK of the LLM you want to test. E.g. for Qwen, it's `OpenAI`.
