@@ -13,6 +13,8 @@ Agentic_AI_Explorer/
 ├── 🧠 Context_Management/     # 上下文管理模块
 ├── 🎯 Langchain_demo/         # LangChain演示
 ├── ⚙️ Function_Calling_demo/  # FunctionCalling演示
+├── ✍️ Dify                    # 极低代码的可视化agent开源搭建平台的操作指南
+├── 🧩 Coze                    # 初学者友好的可视化agent闭源agent搭建平台操作指南
 └── 📖 README.md               # 项目文档
 ```
 
