@@ -1,4 +1,4 @@
-# 毛毯推荐
+# 靠垫推荐
 
 **User:** Anonymous (contact@noesis-ai.com)  
 **Created:** 5/29/2025 17:18  
