@@ -1,4 +1,4 @@
-# 枕头推荐
+# 剃须刀推荐
 
 **User:** Anonymous (contact@noesis-ai.com)  
 **Created:** 5/29/2025 19:09  
