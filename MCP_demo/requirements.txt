@@ -1,0 +1,21 @@
+# MCP Demo 项目依赖包列表 - 简化版本
+# 基础数据处理包
+pandas>=1.5.0
+numpy>=1.20.0
+
+# HTTP请求和网页解析
+requests>=2.25.0
+beautifulsoup4>=4.10.0
+
+# 可选：AI API包（可手动安装）
+# openai>=1.0.0
+# dashscope>=1.14.0
+
+# 用于类型提示支持
+typing-extensions==4.8.0
+
+# 可选：用于更好的命令行界面
+colorama==0.4.6
+
+# 可选：用于JSON处理优化
+ujson==5.8.0 
