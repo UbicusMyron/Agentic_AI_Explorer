@@ -15,6 +15,7 @@ Agentic_AI_Explorer/
 ├── ⚙️ Function_Calling_demo/  # FunctionCalling演示
 ├── ✍️ Dify                    # 极低代码的可视化agent开源搭建平台的操作指南
 ├── 🧩 Coze                    # 初学者友好的可视化agent闭源agent搭建平台操作指南
+├── 🤖 MCP_demo                # MCP演示，各API通用
 └── 📖 README.md               # 项目文档
 ```
 
