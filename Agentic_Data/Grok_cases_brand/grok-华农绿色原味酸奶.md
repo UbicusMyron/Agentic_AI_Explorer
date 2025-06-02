@@ -1,0 +1,110 @@
+
+
+### Grok AI
+
+<div class="thinking-container"></div><div class="response-content-markdown [&amp;_a]:text-current [&amp;_a:hover]:text-primary [&amp;_a:hover]:decoration-primary [&amp;_a]:underline [&amp;_a]:decoration-primary/30 [&amp;_a]:underline-offset-2 [&amp;_h2:first-child]:mt-0 [&amp;_h3:first-child]:mt-0 [&amp;_h4:first-child]:mt-0"><p dir="auto" class="break-words" style="white-space: pre-wrap;">我在广东湛江， 我想买华农酸奶的绿色原味酸奶，你可以帮我直接提供一些购物链接吗？或者推荐一些线下购买的渠道。</p></div><section class="inline-media-container flex flex-col gap-1"></section>
+
+---
+
+### Grok AI
+
+<div class="thinking-container"></div><div class="response-content-markdown [&amp;_a]:text-current [&amp;_a:hover]:text-primary [&amp;_a:hover]:decoration-primary [&amp;_a]:underline [&amp;_a]:decoration-primary/30 [&amp;_a]:underline-offset-2 [&amp;_h2:first-child]:mt-0 [&amp;_h3:first-child]:mt-0 [&amp;_h4:first-child]:mt-0"><p dir="auto" class="break-words" style="white-space: pre-wrap;">感谢你的提问！以下是为你在广东湛江购买华农酸奶绿色原味酸奶（华南农业大学出品的低温酸奶，150g杯装，主打益生菌和无添加，口感浓稠）提供的线上购物链接和线下购买渠道建议。华农酸奶以“百年学府，品质保证”为理念，原料为新鲜牛奶、菌种和少量糖，深受广东地区消费者喜爱。由于是低温产品（需2-6℃储存），需冷链运输或冷藏销售，且华农酸奶主要在广东省内销售，湛江作为广东省内城市，购买较为方便。以下是详细建议：</p>
+<h3 dir="auto" class="">线上购物链接</h3>
+<p dir="auto" class="break-words" style="white-space: pre-wrap;">以下是一些可购买华农酸奶绿色原味酸奶（150g杯装）的电商平台链接（建议购买前确认库存、价格及湛江冷链配送范围）：</p>
+<ol dir="auto" class="marker:text-secondary">
+<li class="break-words"><strong>京东</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words">商品：华农酸奶原味150g*12杯（绿色原味酸奶，益生菌低温酸奶）</li>
+<li class="break-words">链接：<a href="https://www.jd.com" target="_blank" rel="noopener noreferrer">https://www.jd.com</a> （搜索“华农酸奶原味150g”）</li>
+<li class="break-words">示例：华农原味酸牛奶150g*12杯，参考价格约¥48.9-59.9（促销价，需用券，如满59减10元）。  <a href="https://www.jd.com/jiage/13206fb51b263a719de4.html" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/UKzRXw7RB5t2LZuLAaO7s_EWNxVyIA0PW4VstLJmtv0/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWY1MDExMDQz/YWRlYmQ1NzJjOWQ3/M2NjNDE2NDk5ODM1/ZThhNzE0OGUwZWZj/Y2ZmZTVmZDU0N2E4/NTU5ZmNhNy93d3cu/amQuY29tLw"></div></a><a href="https://www.smzdm.com/p/128570552/" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/7-adwMAlfDUGFGWYXH9wpxXeRSlQGI6JYXD3-aMxmSY/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTJiN2IzYTNm/ZTJjNzkyMDM4NWIx/NWE2ZWU3Mzc1NmM4/NTUzN2M4NzJjZDVi/MDk0M2IxNDk1MGZk/YzE0NjdjOS93d3cu/c216ZG0uY29tLw"></div></a></li>
+<li class="break-words">备注：京东自营提供冷链配送，覆盖湛江，正品保障，适合家庭囤货，注意确认“广东省内拍”选项。</li>
+</ul>
+</li>
+<li class="break-words"><strong>天猫-华农官方旗舰店</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words">商品：华农酸奶原味150g*8杯（绿色原味，低温益生菌）</li>
+<li class="break-words">链接：<a href="https://milkground.tmall.com" target="_blank" rel="noopener noreferrer">https://milkground.tmall.com</a> （搜索“华农酸奶原味”）</li>
+<li class="break-words">示例：华农原味酸奶150g*8杯，约¥48.9（参考天猫价）。</li>
+<li class="break-words">备注：官方旗舰店，品质可靠，冷链配送覆盖湛江，适合购买最新批次。</li>
+</ul>
+</li>
+<li class="break-words"><strong>拼多多</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words">商品：华农酸奶原味150g*16杯（绿色原味，整箱装）</li>
+<li class="break-words">链接：<a href="https://www.pinduoduo.com" target="_blank" rel="noopener noreferrer">https://www.pinduoduo.com</a> （搜索“华农酸奶原味150g”）</li>
+<li class="break-words">示例：150g*16杯，约¥79（含冰袋保鲜）。  <a href="https://www.jd.com/jiage/13206fb51b263a719de4.html" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/UKzRXw7RB5t2LZuLAaO7s_EWNxVyIA0PW4VstLJmtv0/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWY1MDExMDQz/YWRlYmQ1NzJjOWQ3/M2NjNDE2NDk5ODM1/ZThhNzE0OGUwZWZj/Y2ZmZTVmZDU0N2E4/NTU5ZmNhNy93d3cu/amQuY29tLw"></div></a></li>
+<li class="break-words">备注：价格可能更低，需选择官方店铺或高信誉店铺，确保冷链配送，避免非正品。</li>
+</ul>
+</li>
+<li class="break-words"><strong>华农原实小程序商城</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words">商品：华农酸奶原味150g*12杯（绿色原味，益生菌发酵乳）</li>
+<li class="break-words">链接：通过微信搜索“华农原实”小程序（或访问 <a href="https://www.hnunst.com" target="_blank" rel="noopener noreferrer">https://www.hnunst.com</a> 进入小程序入口）</li>
+<li class="break-words">备注：华农官方直营，适合湛江本地配送，需确认冷链物流覆盖范围。<a href="http://www.hnunst.com/col.jsp?id=104" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-link size-3 m-[3px]"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></div></a></li>
+</ul>
+</li>
+<li class="break-words"><strong>苏宁易购</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words">商品：华农酸奶原味150g*8杯（绿色原味，低温酸奶）</li>
+<li class="break-words">链接：<a href="https://www.suning.com" target="_blank" rel="noopener noreferrer">https://www.suning.com</a> （搜索“华农酸奶原味”）</li>
+<li class="break-words">示例：150g*8杯，约¥48.9（参考价）。</li>
+<li class="break-words">备注：苏宁提供价格参考，需确认湛江冷链配送，适合比价购买。</li>
+</ul>
+</li>
+</ol>
+<p dir="auto" class="break-words" style="white-space: pre-wrap;"><strong>建议</strong>：</p>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words">华农酸奶绿色原味为低温产品（每毫升含上亿活性乳酸菌），需冷链运输，购买时优先选择注明“广东省内拍”或冷链配送的选项，确保口感和益生菌活性。<a href="https://baike.baidu.com/item/%25E5%258D%258E%25E5%2586%259C%25E9%2585%25B8%25E5%25A5%25B6/3996753" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/S-R7ikPf0u3zIxtSHcLMVzsWtzgbFJAvWjDe17p5-lM/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTUyZDk1MGNl/MTFhZDcyNTgwYzZh/YzU0MmFhZTY4YTAz/YzcwODJlODE2MTc1/NjIyOWViNTk4Mjg2/OWJlMTNhZS9iYWlr/ZS5iYWlkdS5jb20v"></div></a><a href="https://www.smzdm.com/p/35431023/" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/7-adwMAlfDUGFGWYXH9wpxXeRSlQGI6JYXD3-aMxmSY/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTJiN2IzYTNm/ZTJjNzkyMDM4NWIx/NWE2ZWU3Mzc1NmM4/NTUzN2M4NzJjZDVi/MDk0M2IxNDk1MGZk/YzE0NjdjOS93d3cu/c216ZG0uY29tLw"></div></a></li>
+<li class="break-words">年货节或节假日促销（如春节、618）可能有折扣，关注京东满减券或天猫旗舰店活动（如买8送4）。<a href="https://post.smzdm.com/p/axo7nvr3/" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/j8J2mvTXHOFNWdchWrZg-rz15QrzzplbRtzna3AK6Vk/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzhjN2YxZGEz/MGZmMGZlMDEwMGQ2/NTRmNmUxZmVmOTc2/ZjUwZTM4MjI5NGZj/YzczYjUxNDQwMGYw/M2FmYTNmYi9wb3N0/LnNtemRtLmNvbS8"></div></a></li>
+<li class="break-words">湛江属广东省内，物流较快，但建议购买后尽快冷藏（2-6℃），避免临期（保质期约21-30天）。<a href="https://post.smzdm.com/p/axo7nvr3/" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/j8J2mvTXHOFNWdchWrZg-rz15QrzzplbRtzna3AK6Vk/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzhjN2YxZGEz/MGZmMGZlMDEwMGQ2/NTRmNmUxZmVmOTc2/ZjUwZTM4MjI5NGZj/YzczYjUxNDQwMGYw/M2FmYTNmYi9wb3N0/LnNtemRtLmNvbS8"></div></a></li>
+<li class="break-words">如果需要特定包装（如150g*16杯）或实时价格，请告诉我，我可以进一步搜索！</li>
+</ul>
+<h3 dir="auto" class="">线下购买渠道（湛江）</h3>
+<p dir="auto" class="break-words" style="white-space: pre-wrap;">华农酸奶在广东省内销售广泛，尤其在广州及周边城市，湛江作为广东省内城市，部分超市、便利店和高校周边门店可能有售，但因低温产品特性，库存可能集中在大型商超或冷链完善的门店。以下是推荐的线下购买地点：</p>
+<ol dir="auto" class="marker:text-secondary">
+<li class="break-words"><strong>大型连锁超市</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words"><strong>沃尔玛</strong>：湛江有沃尔玛门店（如霞山区人民大道南店，地址：广东省湛江市霞山区人民大道南46号）。华农酸奶绿色原味可能在冷藏乳制品区，常见150g*8杯装（约¥48-55），促销时更划算。电话：+86 759 228 8888。</li>
+<li class="break-words"><strong>家乐福</strong>：如赤坎区海田店（地址：广东省湛江市赤坎区海田路1号），冷藏区可能有华农酸奶，适合家庭购买，建议到店确认库存。</li>
+<li class="break-words"><strong>大润发</strong>：如霞山区椹川大道店（地址：广东省湛江市霞山区椹川大道南88号），冷藏乳制品区可能有华农原味酸奶，节庆促销较多。</li>
+<li class="break-words"><strong>永辉超市</strong>：湛江永辉（如赤坎区金城路店，地址：广东省湛江市赤坎区金城路6号），冷藏区可能有华农酸奶，货源较稳定。</li>
+<li class="break-words">备注：湛江超市常优先上架本地及广东品牌乳制品，华农酸奶较常见。</li>
+</ul>
+</li>
+<li class="break-words"><strong>便利店</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words"><strong>7-11、全家</strong>：湛江市区（如赤坎区、霞山区）的便利店可能有华农酸奶单杯装（150g，约¥6-8），适合临时购买，建议电话确认是否有绿色原味。</li>
+<li class="break-words"><strong>本地便利店</strong>：如“喜士多”或“湛江社区便利店”，部分门店可能有华农酸奶冷藏款，需到店询问冷藏条件。</li>
+<li class="break-words"><strong>高校周边便利店</strong>：湛江高校（如广东海洋大学、湛江科技学院）附近的便利店或小超市可能销售华农酸奶，因华农品牌在广东高校有高知名度。<a href="https://baike.baidu.com/item/%25E5%258D%258E%25E5%2586%259C%25E9%2585%25B8%25E5%25A5%25B6/3996753" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/S-R7ikPf0u3zIxtSHcLMVzsWtzgbFJAvWjDe17p5-lM/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTUyZDk1MGNl/MTFhZDcyNTgwYzZh/YzU0MmFhZTY4YTAz/YzcwODJlODE2MTc1/NjIyOWViNTk4Mjg2/OWJlMTNhZS9iYWlr/ZS5iYWlkdS5jb20v"></div></a></li>
+</ul>
+</li>
+<li class="break-words"><strong>母婴店</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words"><strong>爱婴岛</strong>：湛江爱婴岛（如赤坎区人民西路店，地址：广东省湛江市赤坎区人民西路附近）。华农酸奶可能作为儿童健康食品销售，适合家长选购，建议到店咨询。</li>
+<li class="break-words"><strong>本地母婴店</strong>：如“宝贝之家”，湛江社区附近的母婴店可能有华农酸奶，需电话确认是否有150g原味。</li>
+<li class="break-words">备注：母婴店可能提供小包装或促销套装。</li>
+</ul>
+</li>
+<li class="break-words"><strong>批发市场</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words"><strong>湛江海田国际车城批发市场</strong>：位于霞山区，食品批发商可能有华农酸奶，适合批量采购，价格可能低于零售（约¥45/12杯），需确保冷藏储存。</li>
+<li class="break-words"><strong>湛江南方食品批发市场</strong>：位于赤坎区，部分冷冻乳制品摊位可能有华农酸奶，需现场询问是否有绿色原味。</li>
+</ul>
+</li>
+<li class="break-words"><strong>社区团购或本地电商平台</strong>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words"><strong>美团优选、多多买菜</strong>：在湛江搜索“华农酸奶原味”，可能有次日达服务，冷链配送确保品质，适合宅家购买，优先选择广东本地供应商。</li>
+<li class="break-words"><strong>本地商超配送</strong>：湛江沃尔玛或永辉超市可能通过微信小程序或美团提供冷链配送，建议关注本地社区团购群或华农原实微信公众号。</li>
+</ul>
+</li>
+</ol>
+<p dir="auto" class="break-words" style="white-space: pre-wrap;"><strong>注意事项</strong>：</p>
+<ul dir="auto" class="marker:text-secondary">
+<li class="break-words"><strong>产品质量</strong>：华农酸奶绿色原味为低温产品，需冷藏（2-6℃），购买时检查封口是否完好、生产日期是否新鲜（建议选购近15天内的产品），避免融化或临期品。湛江市场监管部门建议查看“低温酸奶”标识和益生菌含量（每毫升上亿活菌）。<a href="https://baike.baidu.com/item/%25E5%258D%258E%25E5%2586%259C%25E9%2585%25B8%25E5%25A5%25B6/3996753" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/S-R7ikPf0u3zIxtSHcLMVzsWtzgbFJAvWjDe17p5-lM/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTUyZDk1MGNl/MTFhZDcyNTgwYzZh/YzU0MmFhZTY4YTAz/YzcwODJlODE2MTc1/NjIyOWViNTk4Mjg2/OWJlMTNhZS9iYWlr/ZS5iYWlkdS5jb20v"></div></a><a href="https://www.smzdm.com/p/35431023/" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/7-adwMAlfDUGFGWYXH9wpxXeRSlQGI6JYXD3-aMxmSY/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTJiN2IzYTNm/ZTJjNzkyMDM4NWIx/NWE2ZWU3Mzc1NmM4/NTUzN2M4NzJjZDVi/MDk0M2IxNDk1MGZk/YzE0NjdjOS93d3cu/c216ZG0uY29tLw"></div></a></li>
+<li class="break-words"><strong>价格参考</strong>：150g<em>8杯零售价约¥45-55，150g</em>12杯约¥48.9-60，150g*16杯约¥75-80，促销时更划算（如京东¥48.9/12杯）。单杯（150g）约¥6-8。<a href="https://www.jd.com/jiage/13206fb51b263a719de4.html" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/UKzRXw7RB5t2LZuLAaO7s_EWNxVyIA0PW4VstLJmtv0/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWY1MDExMDQz/YWRlYmQ1NzJjOWQ3/M2NjNDE2NDk5ODM1/ZThhNzE0OGUwZWZj/Y2ZmZTVmZDU0N2E4/NTU5ZmNhNy93d3cu/amQuY29tLw"></div></a><a href="https://post.smzdm.com/p/axo7nvr3/" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/j8J2mvTXHOFNWdchWrZg-rz15QrzzplbRtzna3AK6Vk/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzhjN2YxZGEz/MGZmMGZlMDEwMGQ2/NTRmNmUxZmVmOTc2/ZjUwZTM4MjI5NGZj/YzczYjUxNDQwMGYw/M2FmYTNmYi9wb3N0/LnNtemRtLmNvbS8"></div></a></li>
+<li class="break-words"><strong>库存确认</strong>：湛江中小型便利店可能库存有限，建议提前致电超市（如沃尔玛：+86 759 228 8888）确认绿色原味的库存和规格。华农酸奶在广州高校周边更常见，湛江需重点检查大型商超。<a href="https://www.thepaper.cn/newsDetail_forward_25150845" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/u7dbHXViBvvL7TFvvmYbZZOEuGcauT3JNNwFK0tTCyY/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzU4ZmQyY2Uw/NzU1MzQwYjNhNTA4/ZDI3N2ExZmYzZTM5/NTZjNmM2MTg1OGQ1/YTgxN2Y2YmE5ZDg2/Y2M3NjAyNy93d3cu/dGhlcGFwZXIuY24v"></div></a></li>
+<li class="break-words"><strong>消费提示</strong>：华农酸奶绿色原味酸甜适口，含益生菌（嗜酸乳杆菌、双歧杆菌），适合每日1-2杯，促进肠道健康。乳糖不耐受者可适量食用，儿童或孕妇饮用前咨询医生。<a href="https://post.smzdm.com/p/axo7nvr3/" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/j8J2mvTXHOFNWdchWrZg-rz15QrzzplbRtzna3AK6Vk/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzhjN2YxZGEz/MGZmMGZlMDEwMGQ2/NTRmNmUxZmVmOTc2/ZjUwZTM4MjI5NGZj/YzczYjUxNDQwMGYw/M2FmYTNmYi9wb3N0/LnNtemRtLmNvbS8"></div></a><a href="https://www.smzdm.com/p/35431023/" target="_blank" rel="noopener noreferrer" class="web-search-result-chip focus:outline-none focus-visible:outline-none focus-visible:bg:input rounded-md ml-1 mr-0.5" data-state="closed"><div class="inline-flex align-text-bottom items-center justify-center select-none my-0 rounded-md bg-important border border-card-border opacity-60 grayscale hover:filter-none hover:opacity-100 transition-opacity"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/7-adwMAlfDUGFGWYXH9wpxXeRSlQGI6JYXD3-aMxmSY/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTJiN2IzYTNm/ZTJjNzkyMDM4NWIx/NWE2ZWU3Mzc1NmM4/NTUzN2M4NzJjZDVi/MDk0M2IxNDk1MGZk/YzE0NjdjOS93d3cu/c216ZG0uY29tLw"></div></a></li>
+</ul>
+<p dir="auto" class="break-words" style="white-space: pre-wrap;">如果你有特定包装偏好（如150g*16杯或搭配吸管）、预算范围，或需要某家门店的详细地址/电话，我可以进一步筛选和确认！如果你还想了解其他华农酸奶系列（如学士酸奶236g、无糖酸奶120g）或湛江其他酸奶品牌（如伊利安慕希、蒙牛纯甄）的购买渠道，也可以告诉我。</p></div><section class="inline-media-container flex flex-col gap-1"></section><div class="flex gap-2 mt-4"><div class="search-results flex -ml-1 text-sm gap-2 mb-1"><div class="flex flex-row items-center pr-4 py-1 rounded-full cursor-pointer bg-foreground border border-card-border hover:bg-card-hover hover:border-card-border-focus"><div style="z-index: 3;"><div class="align-text-bottom items-center justify-center select-none transition my-0 rounded-md opacity-100 ml-1.5 flex bg-popover overflow-hidden border border-background z-3"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/_iGbiRtRP-UhS4bIc4oqB1Q1rR7AUByhAk0A0X98kBs/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzllZWVjM2Uw/YWFmYzM1ZjBjZGI0/NDIyNjhlZWU5ZTQ5/ZTk1ODkwYzlkYzRh/ZTU1ZTQzOWRmNTgy/N2Y1ODI5Yi9nZG1w/eHQub3JnLw"></div></div><div style="z-index: 2;"><div class="align-text-bottom items-center justify-center select-none transition my-0 rounded-md opacity-100 flex bg-popover overflow-hidden border border-background z-2 -ml-2"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/SF8v39wnsZ2bnhl2brNbbQhbeDh1KR4ozB0VSUqknMo/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWM1NjYzOWQ2/NjhiYzdmNzhlMmJk/ODBiNzNmZDNlMzEw/ZmE4N2ZkYTRjMmU5/YmZlOWU0N2ZiZTg4/MjIyOWUyYy93d3cu/d2p4LmNuLw"></div></div><div style="z-index: 1;"><div class="align-text-bottom items-center justify-center select-none transition my-0 rounded-md opacity-100 flex bg-popover overflow-hidden border border-background z-1 -ml-2"><img class="size-[18px] m-0 rounded-md" alt="" src="https://imgs.search.brave.com/UKzRXw7RB5t2LZuLAaO7s_EWNxVyIA0PW4VstLJmtv0/rs:fit:64:0:0:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWY1MDExMDQz/YWRlYmQ1NzJjOWQ3/M2NjNDE2NDk5ODM1/ZThhNzE0OGUwZWZj/Y2ZmZTVmZDU0N2E4/NTU5ZmNhNy93d3cu/amQuY29tLw"></div></div><div class="truncate ml-2">25 web pages</div></div></div></div>
+
+---
