@@ -1,0 +1,42 @@
+# LangChain 核心包
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-core>=0.1.0
+
+# HTTP 客户端
+aiohttp>=3.8.0
+requests>=2.28.0
+
+# 图像处理
+Pillow>=9.0.0
+
+# JSON 处理 (内置包，无需安装)
+# json
+
+# 加密和哈希
+# hashlib (内置包)
+# hmac (内置包)
+
+# URL 处理 (内置包)
+# urllib
+
+# 时间处理 (内置包)  
+# time
+
+# XML 处理 (内置包)
+# xml
+
+# 异步处理 (内置包)
+# asyncio
+
+# 系统和文件操作 (内置包)
+# os
+# sys
+# base64
+# re
+
+# 类型提示 (内置包)
+# typing
+
+# 数据类 (内置包，Python 3.7+)
+# dataclasses 
